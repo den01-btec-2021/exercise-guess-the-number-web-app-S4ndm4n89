@@ -1,3 +1,4 @@
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-f059dc9a6f8d3a56e377f745f24479a46679e63a5d9fe6f495e02850cd0d8118.svg)](https://classroom.github.com/online_ide?assignment_repo_id=6454395&assignment_repo_type=AssignmentRepo)
 # Exercise - Guess the number in a Flask web app
 
 This exercise will explore how we can build the *guess a number* functionality into a web app using Python's Flask library. We won't worry about the mechanisms of creating the pages and we won't bother with any HTML, CSS or JavaScript. The exercise files will contain all the relevant files you need to get going and just implement the Python part.
